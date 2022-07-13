@@ -7,7 +7,7 @@ Rule(s) currently tested - freemint
 File structure:
 
   backend
-   > app.js
+   - app.js
    + additional folder created when building project
 
  frontend
