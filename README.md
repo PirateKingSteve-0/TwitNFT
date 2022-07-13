@@ -6,11 +6,11 @@ Rule(s) currently tested - freemint
 
 File structure:
 
- > backend
+  backend
    > app.js
    + additional folder created when building project
 
- > frontend
+ frontend
    index.html
    > src
      - App.css
