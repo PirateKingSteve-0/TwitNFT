@@ -8,16 +8,16 @@ File structure:
 
   backend
    - app.js
-   + additional folder created when building project
+   - additional folders and files created with npm installs mentioned below
 
  frontend
-   index.html
-   > src
+   - index.html
+   - src
      - App.css
      - App.js
      - index.css
      - index.js
-   + additional folders and files created when building project
+   - additional folders and files created with npm installs mentioned below
   
 Uses:
   - react.js
