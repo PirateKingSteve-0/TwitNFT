@@ -6,18 +6,18 @@ Rule(s) currently tested - freemint
 
 File structure:
 
-> backend
-  > app.js
-  + additional folder created when building project
+ > backend
+   > app.js
+   + additional folder created when building project
 
-> frontend
-  index.html
-  > src
-    - App.css
-    - App.js
-    - index.css
-    - index.js
-  + additional folders and files created when building project
+ > frontend
+   index.html
+   > src
+     - App.css
+     - App.js
+     - index.css
+     - index.js
+   + additional folders and files created when building project
   
 Uses:
   - react.js
