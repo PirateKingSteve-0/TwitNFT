@@ -4,7 +4,7 @@
 
 Rule(s) currently tested - freemint
 
-#File structure:#
+File structure:
 
   backend
    - app.js
@@ -27,8 +27,8 @@ Uses:
   
  Setup
  
- $ cd projFolder 
- $ exp backend
+ $ cd projFolder <br>
+ $ exp backend <br>
  $ npx create-react-app frontend --use-npm
  
  
