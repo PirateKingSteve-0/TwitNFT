@@ -4,7 +4,7 @@
 
 Rule(s) currently tested - freemint
 
-File structure:
+#File structure:#
 
   backend
    - app.js
