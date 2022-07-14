@@ -4,7 +4,7 @@
 
 Rule(s) currently tested - freemint
 
-****File structure:
+File structure:
 
   backend
    - app.js
@@ -32,21 +32,21 @@ Uses:
  $ npx create-react-app frontend --use-npm
  
  
- ****Inside .env file change:
+ Inside .env file change:
     PORT=4000
     TWITTER_BEAER_TOKEN=myBearerToken
  
  $ npm init -y
  
- ****Download dependency concurrently
+ Download dependency concurrently
  $ npm i concurrently
  
- ****Add dev script to root folder package.json
+ Add dev script to root folder package.json
  "dev": "concurrently 'cd frontend && npm start' 'cd backend && npm run dev'"
  
  $ npm i express soocket.io needle dotenv
  
- ****Run with 
+ Run with 
  $ npm run dev
  
  
