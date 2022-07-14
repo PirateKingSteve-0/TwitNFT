@@ -1,6 +1,6 @@
 # TwitNFT
 
-****Web app that is suppose to display a live feed of tweets that is filtered by given rules. Note: not all files are included since the node_modules contains many additional files. 
+****Web app that is suppose to display a live feed of tweets that is filtered by given rules. Note: not all files are included since the node_modules contains many additional files.****
 
 Rule(s) currently tested - freemint
 
@@ -25,7 +25,7 @@ Uses:
   - socket.io
   - needle
   
- ****Setup
+ Setup
  
  $ cd projFolder 
  $ exp backend
